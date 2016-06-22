@@ -1,4 +1,4 @@
-# Binary to Decimal Converter
+# Binary-to-decimal converter
 Simple Ruby program to convert decimal numbers to binary and vice versa.
 
 This is a really simple Ruby program you can use to convert integers between decimal (base-10) and binary (base-2). 
