@@ -1,5 +1,5 @@
 def decimal_to_binary
-  puts "What binary number would you like to convert to decimal?"
+  puts "What decimal number would you like to convert to binary?"
   number = gets.chomp.to_i
   result = number.to_s(2)
  puts "The decimal number #{number} = #{result} in binary."
